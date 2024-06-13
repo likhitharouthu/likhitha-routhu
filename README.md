@@ -11,7 +11,8 @@
 - 🤔 I'm looking for help with programming languages.
 - 📫 How to reach me: 
   - **Email**: [likhitha.routhu2004@gmail.com](mailto:likhitha.routhu2004@gmail.com)
-  - **LinkedIn**: [LikhithaRouthu](https://linkedin.com/in/likhitharouthu)
+  - **LinkedIn**: [LikhithaRouthu](www.linkedin.com/in/likhitha-routhu-b75a98251)
+)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I can carry on conversations using only emojis.
 
@@ -22,5 +23,5 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=likhitharouthu&layout=compact)
 
 ## Connect with Me
-- [LinkedIn](https://linkedin.com/in/likhitha routhu)
+- [LinkedIn](www.linkedin.com/in/likhitha-routhu-b75a98251)
 
