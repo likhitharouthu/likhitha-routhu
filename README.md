@@ -11,7 +11,7 @@
 - 🤔 I'm looking for help with programming languages.
 - 📫 How to reach me: 
   - **Email**: [likhitha.routhu2004@gmail.com](mailto:likhitha.routhu2004@gmail.com)
-  - **LinkedIn**: [Likhitha Routhu](https://linkedin.com/in/likhitha routhu)
+  - **LinkedIn**: [Likhitha Routhu](https://linkedin.com/in/likhitharouthu)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I can carry on conversations using only emojis.
 
